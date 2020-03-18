@@ -17,8 +17,7 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
  if (string)===string.toLowerCase(); {
  return ("I can't hear you!");
-    } else if {
-    (string)===string.toUpperCase();
+    } else if (string)===string.toUpperCase() {
     return ("YES INDEED!");
       } else {
       (string)===("I love you, Grandma.");
@@ -27,6 +26,26 @@ function sayHiToGrandma(string) {
       
 
 /*
+if (condition goes inside here){
+   // what to do if it's true
+ } else if (condition goes here){
+   // what to do if it's true
+} else { // doesn't take a condition; it is a default
+ // what to do in that case
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
 if (condition1) {
   // block of code to be executed if condition1 is true
 } else if (condition2) {
