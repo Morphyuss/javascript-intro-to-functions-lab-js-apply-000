@@ -38,16 +38,6 @@ if (condition goes inside here){
 
 
 
-
-
-
-
-
-
-
-
-
-
 if (condition1) {
   // block of code to be executed if condition1 is true
 } else if (condition2) {
